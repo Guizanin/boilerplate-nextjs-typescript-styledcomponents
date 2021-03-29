@@ -1,10 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# Boreplate Nextjs with typescript + styledComponets
+![Badge](https://img.shields.io/badge/make_with_Nextjs-%23000000?style=for-the-badge&logo=Next.js)
+![Badge](https://img.shields.io/badge/make_with_Typescript-%23000000?style=for-the-badge&logo=TypeScript)
+![Badge](https://img.shields.io/badge/make_with_Styled_Components-%23000000?style=for-the-badge&logo=styled-components)
+
+### boreplate developed for quick start of the project
+* with base Next.js
+* add TypeScript
+* Configured StyleComponent for style in the components
 
 ## Getting Started
 
 First, run the development server:
 
-```bash
+```
 npm run dev
 # or
 yarn dev
