@@ -1,5 +1,5 @@
 
-# Boreplate Nextjs with typescript + styledComponets
+# Boirlerplate Nextjs with typescript + styledComponets
 ![Badge](https://img.shields.io/badge/make_with_Nextjs-%23000000?style=for-the-badge&logo=Next.js)
 ![Badge](https://img.shields.io/badge/make_with_Typescript-%23000000?style=for-the-badge&logo=TypeScript)
 ![Badge](https://img.shields.io/badge/make_with_Styled_Components-%23000000?style=for-the-badge&logo=styled-components)
