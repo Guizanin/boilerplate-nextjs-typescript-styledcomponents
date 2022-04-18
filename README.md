@@ -6,7 +6,7 @@
 
 ### boreplate developed for quick start of the project
 * with base Next.js
-* add TypeScript
+* added TypeScript
 * Configured StyleComponent for style in the components
 
 ## Getting Started
